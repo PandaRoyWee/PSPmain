@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="email_login" type="id" />
+    <item name="pass_login" type="id" />
+    <item name="loginbtn" type="id" />
+    <item name="linearLayout" type="id" />
+    <item name="fbBtn" type="id" />
+    <item name="GoogleBtn" type="id" />
+    <item name="textView3" type="id" />
+    <item name="signinText" type="id" />
+    <item name="view5" type="id" />
+    <item name="view6" type="id" />
+    <item name="view7" type="id" />
+    <item name="imageView2" type="id" />
+    <item name="textView5" type="id" />
+    <item name="view8" type="id" />
+    <item name="textView6" type="id" />
+    <item name="name_signup" type="id" />
+    <item name="phone_signup" type="id" />
+    <item name="email_signup" type="id" />
+    <item name="pass_signup" type="id" />
+    <item name="signupBtn" type="id" />
+    <item name="linearLayout2" type="id" />
+    <item name="floatingActionButton" type="id" />
+    <item name="floatingActionButton2" type="id" />
+    <item name="linearLayout3" type="id" />
+    <item name="textView7" type="id" />
+    <item name="loginText" type="id" />
+</resources>
